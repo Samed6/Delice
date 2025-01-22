@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 15px;
+    float: right;
+}
+ul li a{
+    color: aqua;
+    letter-spacing: 0.4rem;
+
+}
+nav{
+    background-color: rgb(12, 21, 18);
+    width: 100%;
+    float: right;
+}
+ul li a:hover{
+    color: burlywood;
+}
+#logo{
+    float: left;
+    font-size: 40;
+}
+
+.hero{
+    background-image: url("image.jpg");
+    height: 799px;
+    width: 100%;
+    background-size: cover;
+    
+    
+}
+h1{
+    color: aliceblue;
+    font-size: 67;
+}
+
+.big{
+    color: crimson;
+}
+h3{
+    color: aliceblue;
+    font-size: 20;
+}
+h4{
+    color: aliceblue;
+    background-color: crimson;
+    width: 10%;
+    border-radius: 15px;
+    height: 40;
+    text-align: center;
+}
+
+    
+
+
+    
+
+
+
+
